@@ -8,5 +8,7 @@ The code is in python.I have py2exe to generate .exe file.
 
 Improvements to be done:
 ->Make it a background process
-->Folder name should be user dependent.(Should not have conflict with folder name" Contents")/
+
+->Folder name should be user dependent.(Should not have conflict with folder name" Contents")
+
 ->Partial copy should be done.
